@@ -16,6 +16,7 @@ The file `index.php` was used to generate a portfolio page.
 No login required.
 Since index.php is the default page shown in the document directory, users can see the portfoli page upon browsing the subdomain.
 A favicon.ico from my own website was used on the project directory to override the default favicon on the browser page.
+The source code of the project can be found at my github repository: <https://github.com/JeanYSu/cscie15P1>
 
 ## Outside code
 * Bootstrap: http://www.w3schools.com/bootstrap/
