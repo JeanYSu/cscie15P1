@@ -1,17 +1,20 @@
 <!doctype html>
 <html>
 <head>
-
-	<title>P1 Home Page</title>
+	<title>CSCI E-15 P1 Home Page</title>
 	<meta charset='utf-8'>
-
 </head>
 <body>
 
 	<?php
-	echo 'Project 1';
+	echo 'Porject #: Project 1 <br>';
+	echo 'Project Member: Jean<br>';
+	echo 'Server Name: ';
 	echo $_SERVER['SERVER_NAME'];
 	?>
+	<br>
+	<br>
+	<br>
 	<h1>Under Construction</h1>
 </body>
 </html>
