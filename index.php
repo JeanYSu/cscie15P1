@@ -27,9 +27,9 @@
 	</div>
 	<div class="row">
 		<div class="col-sm-4">
-			 <h2>Project 2 Title</h2>
+			 <h2>xkcd Style Password Generator</h2>
 			 		<p>View: <a href="http://p2.meiosise.com">[http://p2.meiosise.com]</a></p>
-					<p>Github: <a href="https://github.com/JeanYSu/cscie15P2">[cscie15P2]</a></p>
+					<p>Github: <a href="https://github.com/JeanYSu/cscie15P2">[Source Code]</a></p>
 		</div>
 		<div class="col-sm-4">
 			 <h2>Project 3 Title</h2>
